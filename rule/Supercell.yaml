@@ -1,0 +1,31 @@
+payload:
+  # --- Системные службы, авторизация и магазины ---
+  - DOMAIN-SUFFIX,supercell.com
+  - DOMAIN-SUFFIX,supercellid.com
+  - DOMAIN-SUFFIX,supercellstore.com
+  - DOMAIN-SUFFIX,supercellgames.com
+  - DOMAIN-SUFFIX,supercellcreators.com
+  - DOMAIN-SUFFIX,supr.cl
+
+  # --- Brawl Stars ---
+  - DOMAIN-SUFFIX,brawlstars.com
+  - DOMAIN-SUFFIX,brawlstarsgame.com
+
+  # --- Clash of Clans ---
+  - DOMAIN-SUFFIX,clash.com
+  - DOMAIN-SUFFIX,clashofclans.com
+
+  # --- Clash Royale ---
+  - DOMAIN-SUFFIX,clashroyale.com
+  - DOMAIN-SUFFIX,clashroyaleapp.com
+
+  # --- Другие игры ---
+  - DOMAIN-SUFFIX,squadbusters.com
+  - DOMAIN-SUFFIX,boombeach.com
+  - DOMAIN-SUFFIX,hayday.com
+  - DOMAIN-SUFFIX,haydaygame.com
+  - DOMAIN-SUFFIX,clashmini.com
+  - DOMAIN-SUFFIX,mo.co
+
+  # --- Сервисы аналитики и авторизации в играх ---
+  - DOMAIN-SUFFIX,usercentrics.eu
